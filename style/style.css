@@ -1,0 +1,55 @@
+
+body{
+    background-color:thistle;
+}
+img{
+    
+    width:20% ;
+    height:200px;
+    border-radius: 50% ; 
+}
+#img{
+    text-align: center;
+    background-color: black;
+}
+
+#divname{
+    text-align: center;
+    background-color: darkblue;
+}
+
+#summary{
+    background-color: #008dda;
+}
+ 
+#Education{
+
+    background-color:  #41c9e2; ;
+}
+#Experience{
+    background-color: #626ee0;
+}
+
+#Technicalskills:hover{
+    background-color: #41c9e2;
+}
+
+#Technicalskills1{
+    display: none;
+
+}
+
+#Technicalskills:hover ~ #Technicalskills1{
+    display:block;
+ }
+#Softskill{
+
+    background-color: #f5e2bf;
+}
+
+#Languages{
+background-color:grey ;}
+
+#CertificationsTraining{
+background-color: lightsteelblue;
+}
